@@ -1,0 +1,16 @@
+note over browser:
+user types a new note and clicks save
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over server:
+server receives the note data and stores it
+end note
+
+server-->browser: response code: 201 - response: message: "note created"
+
+note over browser:
+browser executes the spa.js code
+which renders the new note to the screen
+end note
