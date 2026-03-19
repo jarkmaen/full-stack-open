@@ -15,21 +15,24 @@ My solutions for the [Full Stack Open](https://fullstackopen.com) course by the 
 - [x] Part 8 - [GraphQL](https://fullstackopen.com/en/part8)
 - [x] Part 9 - [TypeScript](https://fullstackopen.com/en/part9)
 - [x] Part 10 - [React Native](https://fullstackopen.com/en/part10)
+- [] Part 11 - [CI/CD](https://fullstackopen.com/en/part11)
+- [] Part 12 - [Containers](https://fullstackopen.com/en/part12)
+- [] Part 13 - [Using relational databases](https://fullstackopen.com/en/part13)
 
 ## Certificates
 
 ### Core
 
-![Core certificate](images/certificate_full_stack.png)
+<img src="images/certificate_full_stack.png">
 
 ### GraphQL
 
-![GraphQL certificate](images/certificate_graphql.png)
+<img src="images/certificate_graphql.png">
 
 ### TypeScript
 
-![TypeScript certificate](images/certificate_typescript.png)
+<img src="images/certificate_typescript.png">
 
 ### React Native
 
-![React Native certificate](images/certificate_react_native.png)
+<img src="images/certificate_react_native.png">
